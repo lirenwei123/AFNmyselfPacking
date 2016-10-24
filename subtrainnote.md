@@ -10,9 +10,11 @@
 
 **\/Users\/rwli\/Library\/Developer\/CoreSimulator\/Devices\/76578239-AAF3-42C0-8ECA-C57763A52DCE\/data\/Containers\/Data\/Application\/**`F179909F-A56B-4E2F-BB16-D7DB3CAEE692`**\/Documents\/www.baidu.com**
 
-
-
 # 3.一定要记住，在对请求后的数据进行解析时，解析接受到类型要注意
 
 **Domain=com.alamofire.error.serialization.response Code=-1016 "Request failed: unacceptable content-type: **`text/plain`**"**
+
+# 4.已经无数次吧自己创建的对香不分配内存了，所以报错nil
+
+
 
