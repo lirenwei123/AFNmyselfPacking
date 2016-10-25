@@ -14,7 +14,11 @@
 
 **Domain=com.alamofire.error.serialization.response Code=-1016 "Request failed: unacceptable content-type: **`text/plain`**"**
 
-# 4.已经无数次吧自己创建的对香不分配内存了，所以报错nil
+# 4.已经无数次把自己创建的对像不分配内存了，所以报错nil
+
+# 5.不雅再写错别字了～～｀
 
 
+
+# 6.NSinteger 设置为0的时候，return nil   important~~
 
