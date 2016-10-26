@@ -18,7 +18,11 @@
 
 # 5.不雅再写错别字了～～｀
 
-
-
 # 6.NSinteger 设置为0的时候，return nil   important~~
+
+# 7. sizeWithAttributes 单行时
+
+# 8. 多行时
+
+# boundingRectWithSize:CGSizeMake\(kScreen\_Width, MAXFLOAT\) options:NSStringDrawingUsesLineFragmentOrigin attributes:@{NSFontAttributeName:\[UIFont systemFontOfSize:14\]} context:nil\].size 
 
