@@ -24,5 +24,9 @@
 
 # 8. 多行时
 
-# boundingRectWithSize:CGSizeMake\(kScreen\_Width, MAXFLOAT\) options:NSStringDrawingUsesLineFragmentOrigin attributes:@{NSFontAttributeName:\[UIFont systemFontOfSize:14\]} context:nil\].size 
+# boundingRectWithSize:CGSizeMake\(kScreen\_Width, MAXFLOAT\) options:NSStringDrawingUsesLineFragmentOrigin attributes:@{NSFontAttributeName:\[UIFont systemFontOfSize:14\]} context:nil\].size
+
+
+
+# 9.PCH设置路径时，只要复制\/工程名／...\/...prefix.pch
 
