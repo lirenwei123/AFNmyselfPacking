@@ -26,7 +26,11 @@
 
 # boundingRectWithSize:CGSizeMake\(kScreen\_Width, MAXFLOAT\) options:NSStringDrawingUsesLineFragmentOrigin attributes:@{NSFontAttributeName:\[UIFont systemFontOfSize:14\]} context:nil\].size
 
-
-
 # 9.PCH设置路径时，只要复制\/工程名／...\/...prefix.pch
+
+
+
+## 10.关于xib的一点总结：
+
+注册的时候还是用xib注册，跟自己一类的类型的文件相连的时候，点击自己去连clas，不要点flieower去连class。
 
